@@ -100,12 +100,12 @@ const SliderArea = () => {
                 >
                   <div className="container">
                     <div className="row">
-                      <div className="col-xxl-6 col-xl-7 col-lg-8">
+                      <div className="col-xxl-8 col-xl-9 col-lg-10">
                         <div className="tp-slider-content">
                           <span className="tp-slider-sub-title">
                             {item.sub_title}
                           </span>
-                          <h2 className="tp-slider-title">{item.title}</h2>
+                          <h2 className="tp-slider-title" style={{ whiteSpace: "nowrap" }}>{item.title}</h2>
                           <p>{item.info}</p>
                           <div className="tp-slide-btn-box mt-40">
                             <div className="slider-btn">
