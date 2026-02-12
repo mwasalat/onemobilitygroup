@@ -10,7 +10,7 @@ const TopFooter = () => {
                         <div className="row">
                         <div className="col-lg-4 col-md-4 col-12 text-center text-lg-start">
                             <div className="tp-footer-logo">
-                                <a href="#"> <img src="/assets/img/onemobility-assets/logo c.png" alt="One Mobility Group" /></a>
+                                <a href="#"> <img src="/assets/img/onemobility-assets/onembility.png" alt="One Mobility Group" /></a>
                             </div>
                         </div>
                         <div className="col-lg-8 col-md-8 col-12 text-center text-md-end">

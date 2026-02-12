@@ -45,7 +45,7 @@ const HeaderThree = () => {
                         <div className="row align-items-center">
                         <div className="col-xl-2 col-lg-6 col-md-5 col-7">
                             <div className="logo">
-                                <Link href="/"><img src="/assets/img/onemobility-assets/logo c.png" alt="One Mobility Group" /></Link>
+                                <Link href="/"><img src="/assets/img/onemobility-assets/onembility.png" alt="One Mobility Group" style={{ maxHeight: "48px", width: "auto", objectFit: "contain" }} /></Link>
                             </div>
                         </div>
                         <div className="col-xl-7 d-none d-xl-block">

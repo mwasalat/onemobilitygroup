@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const footter_counter ={
-    logo: "/assets/img/onemobility-assets/logo c.png",
+    logo: "/assets/img/onemobility-assets/onembility.png",
     counter_info: [
         {id: 1, cls: "text-md-right", count: 820, info: <>Happy Users <br /> Around The World</>,},
         {id: 2, cls: "", count: 120, info: <>Projects <br /> Already Done</>,},

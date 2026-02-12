@@ -31,7 +31,7 @@ const OurStoryArea = () => {
           </div>
         </div>
 
-        {/* Video Section */}
+        {/* Video Section - aspect-ratio keeps image proportional on mobile */}
         <div className="pb-120">
           <div className="container">
             <div className="row">
@@ -41,10 +41,13 @@ const OurStoryArea = () => {
                     position: "relative",
                     borderRadius: "15px",
                     overflow: "hidden",
-                    height: "450px",
-                    backgroundImage: `url(/assets/img/onemobility-assets/banner-1920x-810.png)`,
+                    width: "100%",
+                    aspectRatio: "16 / 9",
+                    maxHeight: "450px",
+                    backgroundImage: `url(/assets/img/onemobility-assets/omeir_video_youtube.jpg)`,
                     backgroundSize: "cover",
                     backgroundPosition: "center",
+                    backgroundRepeat: "no-repeat",
                   }}
                 >
                   <div
