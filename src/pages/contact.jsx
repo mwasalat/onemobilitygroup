@@ -6,7 +6,7 @@ import Contact from '../components/contact';
 const index = () => {
     return (
         <Wrapper>
-            <SEO pageTitle={"One Mobility Group - Contact"} />
+            <SEO pageTitle="Contact" pageDescription="Get in touch. Visit us at 9GF9+VVF Musaffah M2 Abu Dhabi. Email info@onemobilitygroup.com. Send a message for auto rental, taxi, transport, and mobility solutions." />
             <Contact />            
         </Wrapper>
     );

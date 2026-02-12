@@ -6,7 +6,7 @@ import Cart from "../components/cart";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"One Mobility Group - Cart"} />
+      <SEO pageTitle="Cart" pageDescription="Your cart. Review items before checkout." />
       <Cart />
     </Wrapper>
   );

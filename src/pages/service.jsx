@@ -6,7 +6,7 @@ import Service from '../components/service';
 const index = () => {
     return (
         <Wrapper>
-            <SEO pageTitle={"One Mobility Group - Services"} />
+            <SEO pageTitle="Our Services" pageDescription="Our core services: Premier Auto Rental, Taxi Services, Public & School Transport, Automobile Trading, Service Center, IoT & Connectivity, Data Intelligence, Advanced AI & Analytics. Comprehensive mobility solutions for smarter cities." />
             <Service />            
         </Wrapper>
     );

@@ -6,7 +6,7 @@ import Shop from "../components/shop";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"One Mobility Group - Fleet"} />
+      <SEO pageTitle="Fleet" pageDescription="Our products: browse vehicle fleet for rental and lease. Cars, SUVs, commercial vehicles from One Mobility Group." />
       <Shop />
     </Wrapper>
   );

@@ -7,7 +7,7 @@ import HeaderOne from "../layout/headers/header";
 const index = () => {
   return (
     <>
-      <SEO pageTitle={"Oops.! Page Not Found!"} />
+      <SEO pageTitle="Page Not Found" pageDescription="The page you are looking for could not be found. One Mobility Group - Transportation & Mobility Solutions." noIndex />
       <HeaderOne />
       <div id="smooth-wrapper error_page">
         <div id="smooth-content">

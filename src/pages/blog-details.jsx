@@ -6,7 +6,7 @@ import BlogDetails from "../components/blog-details";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"One Mobility Group - Blog Details"} />
+      <SEO pageTitle="Blog Details" pageDescription="Read the full article: news and insights on mobility, transport, and industry updates from One Mobility Group." />
       <BlogDetails />
     </Wrapper>
   );

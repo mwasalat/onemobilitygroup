@@ -6,7 +6,7 @@ import Portfolio from "../components/portfolio";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"One Mobility Group - Portfolio"} />
+      <SEO pageTitle="Portfolio" pageDescription="Company portfolio: projects and case studies in transport, fleet operations, and mobility solutions from One Mobility Group." />
       <Portfolio />
     </Wrapper>
   );

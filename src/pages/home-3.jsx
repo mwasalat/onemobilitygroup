@@ -6,7 +6,7 @@ import HomeThree from "../components/homes/home-3";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"One Mobility Group"} />
+      <SEO pageTitle="Home" pageDescription="Comprehensive mobility solutions for smarter cities. Auto rental, taxi, transport, technology." />
       <HomeThree />
     </Wrapper>
   );

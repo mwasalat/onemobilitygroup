@@ -6,7 +6,7 @@ import ShopDetails from "../components/shop-details";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"One Mobility Group - Vehicle Details"} />
+      <SEO pageTitle="Vehicle Details" pageDescription="Vehicle specifications, pricing, and availability from our fleet." />
       <ShopDetails />
     </Wrapper>
   );
