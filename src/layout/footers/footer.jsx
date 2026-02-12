@@ -88,8 +88,8 @@ const Footer = ({style_2}) => {
                <div className="col-xl-5 col-lg-5 text-lg-end col-12 text-center ">
                   <div className="footer-menu">
                      <ul>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms of Use</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
+                        <li><a href="/terms">Terms of Use</a></li>
                      </ul>
                   </div>
                </div>

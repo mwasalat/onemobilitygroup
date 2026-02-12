@@ -10,7 +10,6 @@ const fetures_content = {
         {icon: "fas fa-car", title: "Premier Auto Rental Services"},
         {icon: "fas fa-bus", title: "Public & School Transport"},
         {icon: "fas fa-microchip", title: "Technology & Innovation"},
-        {icon: "fas fa-shield-alt", title: "Insurance & Trading Solutions"},
     ]
     
 }

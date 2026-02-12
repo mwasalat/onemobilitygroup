@@ -18,11 +18,6 @@ const feature_data = [
         icon: "fas fa-microchip",
         title: "Technology & Innovation"
     },
-    {
-        id: 4, 
-        icon: "fas fa-shield-alt",
-        title: "Insurance & Trading Solutions"
-    },
 ]
 
 const FeatureArea = () => {

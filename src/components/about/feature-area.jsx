@@ -6,7 +6,7 @@ const feture_content = {
     bg_img: "/assets/img/onemobility-assets/pic-bg.jpg",
     title: "A Message From Our Leader",
     info: <>We are dedicated to transforming urban mobility and enhancing the daily lives of millions. Together, we are shaping the future of transportation.</>,
-    job_info: <>— Group CEO</>,
+    job_info: null,
     fetures: [
         "Innovation & technology driven",
         "Customer-centric service",
@@ -39,7 +39,7 @@ const FeatureArea = () => {
                             </div>
                             <div className="fea-4-box mt-10 p-relative">
                                 <p className="m-0">{info}</p>
-                                    <h6>{job_info}</h6>
+                                    {job_info && <h6>{job_info}</h6>}
                                     <i className="flaticon-quote-1 flaticon-quote"></i>
                             </div>
                             <div className="tp-sv-feature-list tp-sv-feature-list-2 pt-35">

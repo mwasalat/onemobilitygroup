@@ -18,7 +18,7 @@ const menu_data = [
     mega_menu: false,
     has_dropdown: false,
     title: "Mission & Vision",
-    link: "/#mission-vision",
+    link: "/mission-vision",
   },
   {
     id: 5,

@@ -3,7 +3,7 @@ import React from 'react';
 
 const service_data = [
     { id: 1, icon: "fas fa-car", title: "Premier Auto Rental", description: "20+ vehicle categories, daily to long-term leases, fleet management." },
-    { id: 2, icon: "fas fa-taxi", title: "Taxi Services", description: "Reliable multi-emirate taxi, 2000+ vehicles, 24/7." },
+    { id: 2, icon: "fas fa-taxi", title: "Taxi Services", description: "Reliable taxi network, 2000+ vehicles, 24/7." },
     { id: 3, icon: "fas fa-bus", title: "Public & School Transport", description: "600+ ITS buses, 350+ school buses across regions." },
     { id: 4, icon: "fas fa-tools", title: "Service Center", description: "Full mechanical and body shop repairs since 1997." },
 ]
