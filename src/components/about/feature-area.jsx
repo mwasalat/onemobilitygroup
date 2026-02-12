@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 
 const feture_content = {
-    bg_img: "/assets/img/onemobility-assets/pic-bg.jpg",
+    bg_img: "/assets/img/onemobility-assets/omeir_two_orig.png",
     title: "A Message From Our Leader",
     info: <>We are dedicated to transforming urban mobility and enhancing the daily lives of millions. Together, we are shaping the future of transportation.</>,
     job_info: null,
